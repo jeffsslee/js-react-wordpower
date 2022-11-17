@@ -11,6 +11,10 @@
     {
       "id": 3,
       "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
     }
   ],
   "words": [
@@ -40,7 +44,7 @@
       "day": 2,
       "eng": "shark",
       "kor": "상어",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 5,
